@@ -13,4 +13,4 @@ Quando abrir o servidor você ira estar na página raiz.
 
 Para acessar outras páginas, digite os seguintes caminhos após o link do localhost:
 
-/Home /Contatos /Serviços /Redes sociais 
+/Home /Contatos /Serviços /Redes sociais/ funcionarios 
